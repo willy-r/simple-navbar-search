@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "photo": "https://randomuser.me/api/portraits/men/42.jpg",
+      "email": "johndoe@abc.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "photo": "https://randomuser.me/api/portraits/women/84.jpg",
+      "email": "janedoe@abc.com",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Alice",
+      "last_name": "Doe",
+      "photo": "https://randomuser.me/api/portraits/women/67.jpg",
+      "email": "alicedoe@abc.com",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "first_name": "Bob",
+      "last_name": "Doe",
+      "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+      "email": "bobdoe@abc.com",
+      "gender": "Male"
+    }
+  ]
+}
