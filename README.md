@@ -27,8 +27,3 @@ Run the mocked server:
 ```bash
 $ yarn server
 ```
-
-
-## Example
-
-You can test [here](), just type something in input search and press enter.
