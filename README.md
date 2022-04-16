@@ -9,10 +9,11 @@ Define the following envs:
 
 `API_URL` - The API URL to get the search results. Default: `http://localhost:3001`
 
-Clone this repo:
+Clone this repo and go to project root directory:
 
 ```bash
-$ git clone https://github.com/willy-r/simple-navbar-search.git 
+$ git clone https://github.com/willy-r/simple-navbar-search.git
+$ cd simple-navbar-search
 ```
 
 Install dependencies and run server:
